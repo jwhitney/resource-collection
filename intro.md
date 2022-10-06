@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book
+# Resource Collections
 
 This is a small sample book to give you a feel for how book content is
 structured. This page has been updated to add a new line. 
